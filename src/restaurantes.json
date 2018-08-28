@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Trindade",
+        "cooking": "Brasileira",
+        "review": 4.4,
+        "distanceInMeters": 3000,
+        "coverImage": "https://i.imgur.com/ILzD2m1.jpg",
+        "logoImage": "https://i.imgur.com/Z9TfVSx.png"
+    },
+    {
+        "name": "Glouton",
+        "cooking": "Internacional",
+        "review": 4.9,
+        "distanceInMeters": 500,
+        "coverImage": "https://i.imgur.com/ezBscYh.jpg",
+        "logoImage": "https://i.imgur.com/rAV5NlT.png"
+    },   
+    {
+        "name": "Xapuri",
+        "cooking": "Mineira",
+        "review": 4.1,
+        "distanceInMeters": 900,
+        "coverImage": "https://i.imgur.com/IHPqZoI.jpg",
+        "logoImage": "https://i.imgur.com/Amz328T.png"
+    },
+    {
+        "name": "Gomide",
+        "cooking": "Francesa",
+        "review": 4.6,
+        "distanceInMeters": 1000,
+        "coverImage": "https://i.imgur.com/zBVKlxz.jpg",
+        "logoImage": "https://i.imgur.com/JEf1Z3h.png"
+    }
+]
